@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.form-bg {
+  background-image: url("../../Shared/Icons/Signup-bg.jpg");
+}
+.signup-bg {
+  background-image: url("../../Shared/Icons/Signup-bg.jpg");
+}
+.bg-landing {
+  background-image: url("../../Shared/Icons/Landing-bg.jpg");
+}
